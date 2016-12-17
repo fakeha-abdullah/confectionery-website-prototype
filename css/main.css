@@ -156,7 +156,7 @@ footer {
   width: 25%;
 }
 
-@media only screen and (min-width: 20em) {
+@media only screen and (min-width: 25em) {
 
   .banner-content {
     position: relative;
@@ -223,7 +223,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 38em) {
 
   .banner-content {
     position: relative;
@@ -243,8 +243,8 @@ footer {
   }
 
   .sweets img {
-   float: left;
-   padding:.5rem; 
+    float: left;
+    padding: .5rem;
   }
 
   .banner img {
@@ -298,7 +298,7 @@ footer {
 
 }
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 60em) {
 
   .banner-content {
     position: relative;
@@ -361,7 +361,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 90em) {
 
   .banner-content {
     position: relative;
@@ -443,7 +443,7 @@ footer {
 
   html {
     line-height: 1.6;
-    font-size: 140%;
+    font-size: 150%;
   }
 }
 
