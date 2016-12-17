@@ -159,7 +159,7 @@ footer {
 @media only screen and (min-width: 20em) {
 
   .banner-content {
-    position : relative;
+    position: relative;
   }
 
   h1 {
@@ -173,13 +173,14 @@ footer {
     font-size: 1.25rem;
   }
 
-.nav ul {
-  margin: 0;
-  overflow: hidden;
-  padding: 0.8rem 0;
-  list-style-type: none;
-  font-size: 1.25rem;
-}
+  .nav ul {
+    margin: 0;
+    overflow: hidden;
+    padding: .8rem 0;
+    list-style-type: none;
+    font-size: 1.25rem;
+  }
+
   .nav li {
     float: left;
     width: 50%;
@@ -241,7 +242,7 @@ footer {
     position: absolute;
     bottom: 3em;
     left: 2em;
-    text-align:justify;
+    text-align: justify;
   }
 
   .nav li {
@@ -250,10 +251,9 @@ footer {
     width: auto;
   }
 
-
-  /*.banner img {
-  width: 200%;
-}*/
+  .banner img {
+    width: 200%;
+  }
 
   html {
     line-height: 1.4;
@@ -304,7 +304,7 @@ footer {
 @media only screen and (min-width: 38em) {
 
   .banner-content {
-    position : relative;
+    position: relative;
   }
 
   h1 {
@@ -314,9 +314,9 @@ footer {
     text-align: left;
   }
 
-  /*.banner img {
-  width: 200%;
-}*/
+  .banner img {
+    width: 200%;
+  }
 
   html {
     line-height: 1.5;
@@ -364,88 +364,88 @@ footer {
   }
 }
 
-  @media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
 
-    .banner-content {
-      position : relative;
-    }
-
-    h1 {
-      position: absolute;
-      bottom: 3em;
-      left: 2em;
-      text-align: left;
-    }
-
-    /*.banner img {
-    width: 200%;
-  }*/
-
-    html {
-      line-height: 1.5;
-      font-size: 130%;
-    }
-
-    .sweets p {
-      display: none;
-    }
-
-    .sweet1:hover p {
-      display: block;
-    }
-
-    .sweet2:hover p {
-      display: block;
-    }
-
-    .sweet3:hover p {
-      display: block;
-    }
-
-    .sweet4:hover p {
-      display: block;
-    }
-
-    .sweet5:hover p {
-      display: block;
-    }
-
-    .sweet6:hover p {
-      display: block;
-    }
-
-    .sweet7:hover p {
-      display: block;
-    }
-
-    .sweet8:hover p {
-      display: block;
-    }
-
-    .sweet9:hover p {
-      display: block;
-    }
+  .banner-content {
+    position: relative;
   }
 
-    @media only screen and (min-width: 90em) {
+  h1 {
+    position: absolute;
+    bottom: 3em;
+    left: 2em;
+    text-align: left;
+  }
 
-      .banner-content {
-        position : relative;
-      }
+  .banner img {
+    width: 200%;
+  }
 
-      h1 {
-        position: absolute;
-        bottom: 3em;
-        left: 2em;
-        text-align: left;
-      }
+  html {
+    line-height: 1.5;
+    font-size: 130%;
+  }
 
-      /*.banner img {
-      width: 200%;
-    }*/
+  .sweets p {
+    display: none;
+  }
 
-      html {
-        line-height: 1.6;
-        font-size: 140%;
-      }
-    }
+  .sweet1:hover p {
+    display: block;
+  }
+
+  .sweet2:hover p {
+    display: block;
+  }
+
+  .sweet3:hover p {
+    display: block;
+  }
+
+  .sweet4:hover p {
+    display: block;
+  }
+
+  .sweet5:hover p {
+    display: block;
+  }
+
+  .sweet6:hover p {
+    display: block;
+  }
+
+  .sweet7:hover p {
+    display: block;
+  }
+
+  .sweet8:hover p {
+    display: block;
+  }
+
+  .sweet9:hover p {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  .banner-content {
+    position: relative;
+  }
+
+  h1 {
+    position: absolute;
+    bottom: 3em;
+    left: 2em;
+    text-align: left;
+  }
+
+  .banner img {
+    width: 200%;
+  }
+
+  html {
+    line-height: 1.6;
+    font-size: 140%;
+  }
+}
