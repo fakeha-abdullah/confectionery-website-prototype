@@ -169,10 +169,6 @@ footer {
     text-align: left;
   }
 
-  /*.banner img {
-  width: 200%;
-}*/
-
   html {
     line-height: 1.3;
     font-size: 100%;
@@ -304,6 +300,47 @@ footer {
     font-size: 120%;
   }
 
+  .sweets p {
+    display: none;
+  }
+
+  .sweet1:hover p {
+    display: block;
+  }
+
+  .sweet2:hover p {
+    display: block;
+  }
+
+  .sweet3:hover p {
+    display: block;
+  }
+
+  .sweet4:hover p {
+    display: block;
+  }
+
+  .sweet5:hover p {
+    display: block;
+  }
+
+  .sweet6:hover p {
+    display: block;
+  }
+
+  .sweet7:hover p {
+    display: block;
+  }
+
+  .sweet8:hover p {
+    display: block;
+  }
+
+  .sweet9:hover p {
+    display: block;
+  }
+}
+
   @media only screen and (min-width: 60em) {
 
     .banner-content {
@@ -325,6 +362,47 @@ footer {
       line-height: 1.5;
       font-size: 130%;
     }
+
+    .sweets p {
+      display: none;
+    }
+
+    .sweet1:hover p {
+      display: block;
+    }
+
+    .sweet2:hover p {
+      display: block;
+    }
+
+    .sweet3:hover p {
+      display: block;
+    }
+
+    .sweet4:hover p {
+      display: block;
+    }
+
+    .sweet5:hover p {
+      display: block;
+    }
+
+    .sweet6:hover p {
+      display: block;
+    }
+
+    .sweet7:hover p {
+      display: block;
+    }
+
+    .sweet8:hover p {
+      display: block;
+    }
+
+    .sweet9:hover p {
+      display: block;
+    }
+  }
 
     @media only screen and (min-width: 90em) {
 
