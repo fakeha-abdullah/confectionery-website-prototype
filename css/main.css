@@ -169,6 +169,22 @@ footer {
     text-align: left;
   }
 
+  h3 {
+    font-size: 1.25rem;
+  }
+
+.nav ul {
+  margin: 0;
+  overflow: hidden;
+  padding: 0.8rem 0;
+  list-style-type: none;
+  font-size: 1.25rem;
+}
+  .nav li {
+    float: left;
+    width: 50%;
+  }
+
   html {
     line-height: 1.3;
     font-size: 100%;
@@ -225,8 +241,15 @@ footer {
     position: absolute;
     bottom: 3em;
     left: 2em;
-    text-align: left;
+    text-align:justify;
   }
+
+  .nav li {
+    display: block;
+    float: none;
+    width: auto;
+  }
+
 
   /*.banner img {
   width: 200%;
@@ -425,3 +448,4 @@ footer {
         line-height: 1.6;
         font-size: 140%;
       }
+    }
