@@ -107,10 +107,6 @@ nav ul {
   display: inline-block;
 }
 
-footer {
-  text-align: right;
-}
-
 .sweet1 {
   float: left;
   width: 50%;
@@ -281,6 +277,10 @@ footer {
     text-align: justify;
   }
 
+  h3 {
+    font-size: .9rem;
+  }
+
   .nav li {
     display: inline-block;
     float: none;
@@ -369,6 +369,51 @@ footer {
     display: none;
   }
 
+  .sweet1 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet2 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet3 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet4 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet5 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet6 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet7 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet8 {
+    float: left;
+    width: 25%;
+  }
+
+  .sweet9 {
+    float: left;
+    width: 25%;
+  }
+
   .sweet1:hover p {
     display: block;
   }
@@ -427,6 +472,7 @@ footer {
     line-height: 1.5;
     font-size: 130%;
   }
+
 
   .sweets p {
     display: none;
@@ -494,4 +540,5 @@ footer {
 
 footer {
   font-size: .8rem;
+  text-align: right;
 }
